@@ -9,4 +9,4 @@ Contributors: Rahul Sehgal, rahulse@stud.ntnu.no
 ## Topics
 | Topic | Description | Tools Used |
 | ----------- | ----------- | ----------- |
-| Introduction | ArcGIS Pro interface was introduced and a simple map of COVID-19 vaccination status in Europe was produced | Add data, Attribute Tables |
+| LM1 - Modelling a landslide | A landslide that happened in California in 1999 was modelled. | Hydrological Modelling|
