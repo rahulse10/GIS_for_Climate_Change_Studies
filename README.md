@@ -4,8 +4,8 @@ The README file presents an overview of all the maps created and the tools used.
 The folders have more details about the individual mapping projects. \
 ArcGIS Pro was used for completing all the exercises for this course.
 
-Contributors: Rahul Sehgal, rahulse@stud.ntnu.no
-Date: Jan 23 - Current
+Contributors: Rahul Sehgal, rahulse@stud.ntnu.no \
+Date: January 2023 - Current
 
 ## Topics
 | Topic | Description | Tools Used |
