@@ -5,6 +5,7 @@ The folders have more details about the individual mapping projects. \
 ArcGIS Pro was used for completing all the exercises for this course.
 
 Contributors: Rahul Sehgal, rahulse@stud.ntnu.no
+Date: Jan 23 - Current
 
 ## Topics
 | Topic | Description | Tools Used |
